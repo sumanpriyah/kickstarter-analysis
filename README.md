@@ -4,40 +4,40 @@
 In this project Analysis is done on stocks with best percentage return using VB Script while automating (Any year can be used on same script and for all stocks) and refactoring the script. Formatting made comparison and percentage return easily visible. 
 
 ## Purpose
-The purpose of this project is to help Steve so that he can compare DQ stock with other stocks and can offer better stocks to his parents using VBA. In this project analysis and comparison  is done using VBA to reduce error and time for 12 different stocks which is more time consuming if done manually. Total Volume and percentage return is calculated for different stocks and compared for different years - 2017 and 2018 by returning results in same sheet. In this project For Loop and IF Then statements, Arrays to iterate  different Tickers and find out the total volume and percentage resturns for each Ticker. The  wokbbok is saved as "xlsm" so that Excel Macro gets enabled and Steve can run anytime.
+The purpose of this project is to help Steve so that he can compare DQ stock with other stocks and can offer better stocks to his parents using VBA. In this project analysis and comparison  is done using VBA to reduce error and time for 12 different stocks which is more time consuming if done manually. Total Volume and percentage return is calculated for different stocks and compared for different years - 2017 and 2018 by returning results in same sheet. In this project For Loop and IF Then statements, Arrays to iterate different Tickers and find out the total volume and percentage returns for each Ticker. The workbook is saved as "xlsm" so that Excel Macro gets enabled and Steve can run anytime.
 
 ## Results
 
 ### Analysis for 2017
 
-In 2017 "DQ" did best among all 12 stocks with 199.4% returns . The total volume was 35,796,200. As per the 2017 data "DQ" is the best stock that year. The next best option is "SEDG" with approx 185% returns with 206,885200 volume. 
-"TERP" is the only stock with negative returns. As per 2017 data "TERP" is not a good option. Steves Parents can consider these stocks as per data for 2017 DQ, ENPH, FSLR, SEDG with more that 100% return on these stocks for given volume.
+In 2017 "DQ" did best among all 12 stocks with 199.4% returns. The total volume was 35,796,200. As per the 2017 data "DQ" is the best stock that year. The next best option is "SEDG" with approx. 185% returns with 206,885200 volumes. 
+"TERP" is the only stock with negative returns. As per 2017 data "TERP" is not a good option. Steve’s Parents can consider these stocks as per data for 2017 DQ, ENPH, FSLR, SEDG with more than 100% return on these stocks for given volume.
 
 ### Analysis for 2018
 
-In 2018 "DQ" return is approx 63% with 107,878,900 total volume which is bad as compare to other stocks .  In 2018 "ENPH" and "RUN" are the only stocks having postive return and rest all have negative percentage return.
+In 2018 "DQ" return is approx. 63% with 107,878,900 total volume which is bad as compare to other stocks .  In 2018 "ENPH" and "RUN" are the only stocks having positive return and rest all have negative percentage return.
 
 ## Overall Results
 
-Looking at 2017 and 2018 data "ENPH" and "RUN" looks the best options. When market was up and all stocks were doing good then both of these stocks were doing good with percentage return more than 100%.  When market was down and other stocks were returning negative returns still both opf these stocks were have positive percentahe returns more tha 80%. Steve should show this comparison and offer these two stock options. 
+Looking at 2017 and 2018 data "ENPH" and "RUN" looks the best options. When market was up and all stocks were doing good then both of these stocks were doing good with percentage return more than 100%.  When market was down and other stocks were returning negative returns still both opf these stocks were have positive percentage returns more than 80%. Steve should show this comparison and offer these two stock options. 
 
 ## Summary
 
 -1. What are the advantages or disadvantages of refactoring code?
 
-##Advantages:
-1. Its faster and more organised 
-2. It helps to understnad the code easily.
+### Advantages:
+1. Its faster and more organized 
+2. It helps to understand the code easily.
 3. Good for long code to get results faster.
-4. Code can be easily resuable and reduce errors
+4. Code can be easily reusable and reduce errors
 5. Much more data can be handled 
 
-## Dis-Advantages:
+### Dis-Advantages:
 1. If made mistake one place need to fix lots of places same issue
 2. Need skills to refactor can be hard. 
 3. Not helpful when data is small but its time consuming while refactoring
 
 -2. How do these pros and cons apply to refactoring the original VBA script?
 Pros- After running the script results come faster after refactoring 
-Cons- initialy its time consuming to refatcor the original VBA script. 
+Cons- initially its time consuming to refactor the original VBA script. 
 
