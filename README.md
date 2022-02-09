@@ -17,7 +17,6 @@ In 2017 "DQ" did best among all 12 stocks with 199.4% returns. The total volume 
 
 In 2018 "DQ" return is approx. 63% with 107,878,900 total volume which is bad as compare to other stocks .  In 2018 "ENPH" and "RUN" are the only stocks having positive return and rest all have negative percentage return.
 
-## Overall Results
 
 Looking at 2017 and 2018 data "ENPH" and "RUN" looks the best options. When market was up and all stocks were doing good then both of these stocks were doing good with percentage return more than 100%.  When market was down and other stocks were returning negative returns still both opf these stocks were have positive percentage returns more than 80%. Steve should show this comparison and offer these two stock options. 
 
